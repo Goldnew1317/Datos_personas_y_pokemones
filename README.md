@@ -9,10 +9,14 @@ Datos de Pesonas:
 
 ![Mi captura de pantalla](Personas1.png)
 
+Resultado:
+
 ![Mi captura de pantalla](Personas2.png)
 
 Datos de Pokemones:
 
 ![Mi captura de pantalla](Pokemones1.png)
+
+Resultado:
 
 ![Mi captura de pantalla](Pokemones2.png)
