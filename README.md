@@ -6,9 +6,13 @@ Menu Principal:
 ![Mi captura de pantalla](Captura1.png)
 
 Datos de Pesonas:
+
 ![Mi captura de pantalla](Personas1.png)
+
 ![Mi captura de pantalla](Personas2.png)
 
 Datos de Pokemones:
+
 ![Mi captura de pantalla](Pokemones1.png)
+
 ![Mi captura de pantalla](Pokemones2.png)
